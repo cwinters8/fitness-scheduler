@@ -29,3 +29,4 @@ An assessment project for a Backend Engineer role.
 - Make sure scheduler fires reminders at the correct time when the reminder is not in the past
 - Deploy to Amazon ECS or DigitalOcean App Platform
 - Document available endpoints
+- Endpoint for querying the status of reminders
