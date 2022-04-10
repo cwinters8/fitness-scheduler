@@ -6,7 +6,7 @@ An assessment project for a Backend Engineer role.
 
 ### Prerequisites
 
-- env.local file with DSN and API_URL variables (Clark will send via email as needed)
+- .env file with DSN and API_URL variables (Clark will send via email as needed)
 - install [Air](https://github.com/cosmtrek/air#installation) if live reload is desired
 
 ### Running with live reload
